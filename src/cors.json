@@ -1,0 +1,15 @@
+{
+  "rules": {
+    "storage": {
+      "buckets": {
+        "sowmyz-products.appspot.com": {
+          "cors": {
+            "allow-origin": "*",
+            "allow-methods": ["GET", "POST", "OPTIONS"],
+            "max-age": 3600
+          }
+        }
+      }
+    }
+  }
+}
