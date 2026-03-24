@@ -114,6 +114,8 @@ export const Acc = ({ editing, onSaved, onCancel }) => {
             <option value="blazer">blazer</option>
             <option value="accessory">accessory</option>
             <option value="girlbaby">girlbaby</option>
+            <option value="budgetFriendly">budgetFriendly</option>
+            <option value="mens_Blazer">mens_Blazer</option>
           </datalist>
         </label>
 
