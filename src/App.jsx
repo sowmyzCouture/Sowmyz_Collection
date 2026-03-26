@@ -39,7 +39,7 @@ function App() {
         </main>
 
         <footer className="footer">
-          Built with React + Firebase = Design by Prawin©• <span className="muted">{new Date().getFullYear()}</span>
+          Built with React + Firebase <=> Design by Prawin©• <span className="muted">{new Date().getFullYear()}</span>
         </footer>
       </div>
     </div>
